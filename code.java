@@ -1,4 +1,5 @@
-Today is 27.05
+My CS50 Marathon
+>>>>>>> week1
 <<<<<<< HEAD
 Sceduler:
 27.05.2022
